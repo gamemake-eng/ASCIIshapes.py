@@ -1,1 +1,1 @@
-a set of premade shapes made out of 
+a set of premade shapes made out of text that is a modle
