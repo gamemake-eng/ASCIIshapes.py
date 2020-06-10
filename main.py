@@ -1,4 +1,4 @@
-import ASCIIshapes
+import Textshapes
 
-ASCIIshapes.unbrella()
-ASCIIshapes.square() 
+Textshapes.unbrella()
+Textshapes.square() 
