@@ -1,4 +1,4 @@
-print("welcome to ASCIIshapes!")
+print("welcome to Textshapes!")
 
 #shapes
 def square():
