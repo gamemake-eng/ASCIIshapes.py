@@ -9,6 +9,14 @@ def square():
   print('          f           f')
   print('          fffffffffffff')
   
+def triangle():
+  print("            6")
+  print("           6  6")
+  print("          6    6")
+  print("         6      6")
+  print("        6        6")
+  print("       6 6 6 6 6 6")
+  
 #numbers
 def one():
   print('             11')
@@ -19,6 +27,8 @@ def one():
   print('              1')
   print('              1')
   print('          1111111111')
+  
+  
  
 #every day objects   
 def unbrella():
